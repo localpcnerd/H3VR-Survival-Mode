@@ -2,10 +2,12 @@
 Survival, a new gamemode for H3. You've been stranded and nobody is coming. How long can you survive?
 
 ## FEATURES
- - Infinite wave-based gameplay
+ - *Infinite* wave-based gameplay
  - Custom shops for weapons, ammo, attachments, grenades, etc
+ - Recyclers to sell off all your unwanted guns, mags, and other goodies
+ - Limited/Unlimited ammo modes to dictate your play experience
  - Persistent highscore saving
- - Boss waves
+ - **Boss waves**
 
 ## MAPPING
  - Download Meatkit [on Github.](https://github.com/H3VR-Modding/MeatKit)
@@ -18,18 +20,23 @@ Survival, a new gamemode for H3. You've been stranded and nobody is coming. How 
  - If you have any questions, feel free to DM or ping me @reallocal
 
 ### NOTES + TIPS
- - Make sure that Survival_Mode is added as a dependency!!
+ - Make sure that **localpcnerd-Survival_Mode-1.0.0** is added as a dependency!!
  - Shops will autofill the item's text field with the name and price you filled out, so you don't need to set those manually. This includes the Ammo Supplier and Randomized Spawner.
  - You can have as many or as little shops as you want, there is no ceiling on the number. I typically stick with 3 split between Weapons, Attachments, and Consumables.
 
 ### TODO
  - Wrist follower to display the minimap, various counters/data, etc etc.
  - Rewrite shop spawners to allow for custom vaulted weapons.
+ - Custom vaulted loadouts.
  - Some other cool stuff probably.
 
 ### Credits
 - Nathan: Atlas
 - Devyn: Ammo spawner script
+- Catcher: QA testing
+- NotWolfie: QA testing
+- McGram: QA testing
+- Okkim: QA testing + organizing modmas
 
 ### Changelog
 1.0.0 - Initial Upload
