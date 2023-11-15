@@ -11,7 +11,6 @@ Survival, a new gamemode for H3. You've been stranded and nobody is coming. How 
  - Download Meatkit [on Github.](https://github.com/H3VR-Modding/MeatKit)
  - Download the survival mapping package available [on Github.](https://github.com/localpcnerd/H3VR-Survival-Mode/)
  - Import Atlas [(Available here)](https://github.com/H3VR-Modding/AtlasSampleScenes/) into your Meatkit project.
- - Import localpcnerd.SurvivalMode.dll, found in the Survival_Mode plugin folder.
  - Import the survival mapping package into a Meatkit project.
  - Open the example scene and copy all the objects under the --SURVIVAL-- object into your scene.
  - Reposition and tweak settings to your liking
