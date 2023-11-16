@@ -21,6 +21,8 @@ Survival, a new gamemode for H3. You've been stranded and nobody is coming. How 
 
 ### NOTES + TIPS
  - Make sure that **localpcnerd-Survival_Mode-1.0.0** is added as a dependency!!
+ - **READ THE TOOLTIPS!!!!**
+ - The *SurvivalObjects* prefab contains everything you need to take your sandbox map to a survival map. Drop it in and reposition, tweak, or change as needed.
  - Shops will autofill the item's text field with the name and price you filled out, so you don't need to set those manually. This includes the Ammo Supplier and Randomized Spawner.
  - You can have as many or as little shops as you want, there is no ceiling on the number. I typically stick with 3 split between Weapons, Attachments, and Consumables.
 
