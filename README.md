@@ -10,34 +10,22 @@ Survival, a new gamemode for H3. You've been stranded and nobody is coming. How 
  - **Boss waves**
 
 ## MAPPING
- - Download Meatkit [on Github.](https://github.com/H3VR-Modding/MeatKit)
- - Download the survival mapping package available [on Github.](https://github.com/localpcnerd/H3VR-Survival-Mode/)
- - Import Atlas [(Available here)](https://github.com/H3VR-Modding/AtlasSampleScenes/) into your Meatkit project.
- - Import the survival mapping package into a Meatkit project.
- - Open the example scene and copy all the objects under the --SURVIVAL-- object into your scene.
- - Reposition and tweak settings to your liking.
- - Build as an Atlas sandbox scene.
- - If you have any questions, feel free to DM or ping me @reallocal
+*Where's the SDK?*
+**I am holding off on publically releasing the mapping SDK as I am in the middle of a couple major rewrites that would complicate the mapping proccess for other mappers.** 
+I plan on releasing the mapping SDK **in late December-early January.**
+Once these rewrites are done, you'll be able to make your map and everything will auto update on its own, no assistance required.
 
-### NOTES + TIPS
- - Make sure that **localpcnerd-Survival_Mode-1.0.0** is added as a dependency!!
- - **READ THE TOOLTIPS!!!!**
- - The *SurvivalObjects* prefab contains everything you need to take your sandbox map to a survival map. Drop it in and reposition, tweak, or change as needed.
- - Shops will autofill the item's text field with the name and price you filled out, so you don't need to set those manually. This includes the Ammo Supplier and Randomized Spawner.
- - You can have as many or as little shops as you want, there is no ceiling on the number. I typically stick with 3 split between Weapons, Attachments, and Consumables.
- - Shop items are *fully* customizable, anything can be spawned as long as you have its ItemID. Use MetaViewer/Ripper to find these.
-
-### TODO
- - Rewrite shops to automate the creation process for shops, ex. Gun Game weapon lists (Highest Priority)
- - Wrist follower to display the minimap, various counters/data, etc etc.
- - Rewrite spawning system to allow for custom vaulted weapons.
- - Custom vaulted loadouts.
- - Some other cool stuff probably.
+### TODO (BY PRIORITY)
+ - **Finish the shops rewrite to allow for custom weapon lists**
+ - **Release mapping SDK**
+ - *Wrist tracker for stats*
+ - *Custom non sosig bosses (ex. Attack choppers)*
 
 ### Credits
 - Nathan: Atlas
 - Devyn: Ammo spawner script
-- Packer: QA testing + making SM_Department_Of_Meat
+- Danny: QA testing + helping with making SM_Port
+- Packer: QA testing + general assistance
 - Catcher: QA testing
 - NotWolfie: QA testing
 - McGram: QA testing
