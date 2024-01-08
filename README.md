@@ -14,7 +14,7 @@ Survival, a new gamemode for H3. You've been stranded and nobody is coming. How 
 
 **I am holding off on publically releasing the mapping SDK as I am in the middle of a couple major rewrites that would complicate the mapping proccess for other mappers.** 
 
-I plan on releasing the mapping SDK **in late December-early January.**
+I plan on releasing the mapping SDK **in January.**
 
 Once these rewrites are done, you'll be able to make your map and everything will auto update on its own, no assistance required.
 
